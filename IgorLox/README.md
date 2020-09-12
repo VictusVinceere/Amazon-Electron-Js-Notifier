@@ -1,1 +1,1 @@
-# IgorLox
+# Amazon Notifier Plus
